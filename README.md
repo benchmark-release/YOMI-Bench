@@ -1,9 +1,8 @@
 # YOMI-Bench
-YOMI-Bench
 
 
 ```text
-dataset/
+YOMI-Bench/
 ├── readings.jsonl
 │
 ├── tasks/
@@ -57,5 +56,4 @@ dataset/
 │           ├── prompt_pattern_3.jsonl
 │           └── prompt_pattern_4.jsonl
 │
-├── README.md
-└── LICENSE
+└── README.md
