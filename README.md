@@ -2,7 +2,8 @@
 YOMI-Bench
 
 
-YOMI-Bench/
+```text
+dataset/
 ├── readings.jsonl
 │
 ├── tasks/
