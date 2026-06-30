@@ -85,7 +85,7 @@ If you use this dataset in your research, please cite the following paper:
 ```
 @article{mibayashi2026yomibench,
   title   = {YOMI-Bench: A Benchmark for Evaluating Kanji Reading and Phonological Understanding of LLMs for Japanese},
-  author  = {Ryota, Mibayashi and Hiroya, Takamura and Hitomi, Yanaka},
+  author  = {Ryota Mibayashi and Hiroya Takamura and Hitomi Yanaka},
   journal = {arXiv preprint},
   year    = {2026},
   note    = {to appear}
