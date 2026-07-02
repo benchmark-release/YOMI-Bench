@@ -88,7 +88,7 @@ If you use this dataset in your research, please cite the following paper:
   author  = {Ryota Mibayashi and Hiroya Takamura and Hitomi Yanaka},
   journal = {arXiv preprint},
   year    = {2026},
-  note    = {to appear}
+  note    = {2607.00664}
 }
 ```
 
